@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience effortless intimate wellness shopping with automated convenience rivaling amazon prime shopping online. Discreet, fast, and designed for your comfort.
+
+### About
+https://example.com/about
+Discover how Wild welly revolutionizes sexual wellness e-commerce with seamless automation, bringing dollar tree online shopping ease to intimate health products.
+
+### Education
+https://example.com/education
+Empower your intimate health journey with expert guides and resources. Learn everything about sexual wellness in a judgment-free, educational space.
+
+### Contact
+https://example.com/contact
+Reach our customer care team with questions about costco online shopping-style convenience for intimate products. Fast, private, automated assistance available now.
+
+### Products
+https://example.com/products
+Our Products - Wild welly
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Wild welly
+
+### Category
+https://example.com/category/:slug
+Products - Wild welly
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
